@@ -11,3 +11,11 @@ Features
 * Block overlapping appointments.
 * Connect to existing MySQL database
 
+Technologies used.
+* MVC driven design
+* JavaFX views
+* Object Oriented Programming
+* ObservableList collections
+* Polymorphism
+* Inheritance
+* Abstract Classes
